@@ -56,11 +56,11 @@ export function Header() {
           <div className="flex items-center space-x-2">
             {/* Phone Number - Hidden on mobile */}
             <a
-              href="tel:+919027350616"
+              href="tel:+919654959300"
               className="hidden lg:flex items-center space-x-2 text-sm font-medium text-foreground hover:text-primary transition-colors"
             >
               <Phone className="h-4 w-4" />
-              <span>+91 9027350616</span>
+              <span>+91 9654959300</span>
             </a>
 
             {/* Theme Toggle */}
@@ -106,11 +106,11 @@ export function Header() {
                 </Link>
               ))}
               <a
-                href="tel:+919027350616"
+                href="tel:+919654959300"
                 className="flex items-center space-x-2 px-4 py-3 text-sm font-medium text-foreground hover:bg-accent hover:text-accent-foreground rounded-md transition-colors"
               >
                 <Phone className="h-4 w-4" />
-                <span>+91 9027350616</span>
+                <span>+91 9654959300</span>
               </a>
             </nav>
           </div>

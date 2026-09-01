@@ -160,7 +160,7 @@ export function ServicesPage() {
             Contact us to discuss your specific needs.
           </p>
           <a 
-            href="mailto:sales@sllpl.com"
+            href="mailto:naveen@sllpl.com"
             className="btn-primary inline-block"
           >
             Request a Quote

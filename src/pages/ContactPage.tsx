@@ -20,7 +20,7 @@ export function ContactPage() {
     e.preventDefault();
     
     // Create mailto link with form data
-    const mailtoLink = `mailto:sales@sllpl.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(
+    const mailtoLink = `mailto:naveen@sllpl.com?subject=${encodeURIComponent(formData.subject)}&body=${encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\n\nMessage:\n${formData.message}`
     )}`;
     
@@ -48,14 +48,14 @@ export function ContactPage() {
     {
       icon: Phone,
       title: 'Call Us',
-      details: ['+91 9027350616'],
-      link: 'tel:+919027350616',
+      details: ['+91 9654959300'],
+      link: 'tel:+919654959300',
     },
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['sales@sllpl.com'],
-      link: 'mailto:sales@sllpl.com',
+      details: ['naveen@sllpl.com'],
+      link: 'mailto:naveen@sllpl.com',
     },
     {
       icon: Clock,
@@ -232,10 +232,10 @@ export function ContactPage() {
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
             Our team is ready to help you with your logistics needs. Call us now for quick support.
           </p>
-          <a href="tel:+919027350616">
+          <a href="tel:+919654959300">
             <Button size="lg" className="font-bold">
               <Phone className="mr-2 h-5 w-5" />
-              Call +91 9027350616
+              Call +91 9654959300
             </Button>
           </a>
         </div>

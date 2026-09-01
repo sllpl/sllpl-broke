@@ -83,18 +83,18 @@ export function Footer() {
                 </p>
               </div>
               <a 
-                href="tel:+919027350616" 
+                href="tel:+919654959300" 
                 className="flex items-center space-x-3 text-sm text-muted-foreground hover:text-primary transition-colors"
               >
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
-                <span>+91 9027350616</span>
+                <span>+91 9654959300</span>
               </a>
               <a 
-                href="mailto:sales@sllpl.com" 
+                href="mailto:naveen@sllpl.com" 
                 className="flex items-center space-x-3 text-sm text-muted-foreground hover:text-primary transition-colors"
               >
                 <Mail className="h-5 w-5 text-primary flex-shrink-0" />
-                <span>sales@sllpl.com</span>
+                <span>naveen@sllpl.com</span>
               </a>
             </div>
           </div>

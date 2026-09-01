@@ -187,7 +187,7 @@ export function WhyUsPage() {
             Join hundreds of satisfied clients who trust us with their global logistics needs
           </p>
           <a 
-            href="mailto:sales@sllpl.com"
+            href="mailto:naveen@sllpl.com"
             className="inline-block bg-background text-foreground hover:bg-background/90 font-semibold px-8 py-4 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl"
           >
             Start Your Journey With Us

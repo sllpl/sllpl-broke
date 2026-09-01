@@ -178,9 +178,9 @@ export function HomePage() {
                 Contact Us Now
               </Button>
             </Link>
-            <a href="tel:+919027350616">
+            <a href="tel:+919654959300">
               <Button size="lg" variant="outline" className="bg-transparent border-2 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary font-bold">
-                Call: +91 9027350616
+                Call: +91 9654959300
               </Button>
             </a>
           </div>
